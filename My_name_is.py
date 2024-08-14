@@ -1,0 +1,5 @@
+print('Hello world')
+print('my name is' )
+print('Madara Uchiha')
+print("I'm Obito Uchiha")
+print('whatever "here" means')

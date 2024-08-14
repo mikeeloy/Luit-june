@@ -1,0 +1,4 @@
+print('hello!')
+print("I'm studying python")
+print("summon the Snake")
+print('whoami')
